@@ -6,8 +6,6 @@ DOI:
 
 The goal of this project is to visualize international tourism expenses of countries.
 
-Using a SIPRI dataset, milspend can visualize military spending of up to four countries.
-
 The dataset is downloadable from:
 
 https://api.worldbank.org/v2/en/indicator/ST.INT.RCPT.CD?downloadformat=excel
