@@ -38,6 +38,6 @@ $ conan2 Canada
 
 The following command can display conan spending of Japan and Canada.
 
-$ milspend Japan Canada
+$ conan2 Japan Canada
 
 ![Figure_1conan_JananCanada](https://user-images.githubusercontent.com/103731249/171561550-3fabf65b-1622-4fad-aa50-550a2b3d4488.png)
